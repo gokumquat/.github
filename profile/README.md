@@ -12,8 +12,6 @@ Email: [help@gokumquat.com](mailto:help@gokumquat.com)
 
 Documenation: [gokumquat.com/docs](https://www.gokumquat.com/docs) [coming soon!]
 
-Report an issue: [github.com/gokumquat/kumquat-support/issues](https://github.com/gokumquat/kumquat-support/issues)
-
 ## General
 
 Kumquat is operated by Eten en Drinken Software Co Ltd, a Georgia limited liability company.
